@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Edustream</string>
+
+    <string name="play">Play</string>
+
+    <string name="yes"> Yes, please </string>
+    <string name="no"> No, thanks </string>
+    <string name="resume">Want to resume from where you left ?</string>
+
+    <string name="no_drm">Sorry EduStream data not found!!</string>
+    <string name="no_sd_card">SD card not available!!</string>
+    <string name="loading">Please wait, loading data!!</string>
+    <string name="permission">Sorry app needs the permissions to function!!</string>
+    <string name="enable_permission">Please enable all the permissions and try again!!</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+
+</resources>

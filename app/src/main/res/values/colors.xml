@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <color name="colorPrimary">#fbc02d</color>
+     <color name="colorAccent">#fbc02d</color>
+     <color name="colorPrimaryDark">#f9a825</color>-->
+    <color name="colorPrimary">#fbc02d</color>
+    <color name="colorAccent">#fbc02d</color>
+    <color name="colorPrimaryDark">#f9a825 </color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#80000000</color>
+
+    <color name="font_color">#555555</color>
+    <color name="background">#e4e3e3</color>
+    <color name="btn_color">#555555</color>
+
+
+    <color name="grid_1">#c5e4f6</color>
+    <color name="grid_2">#41a2db</color>
+    <color name="grid_3">#3ec3af</color>
+    <color name="grid_4">#fdb2fa</color>
+    <color name="grid_5">#b676d2</color>
+    <color name="grid_6">#d63bb2</color>
+
+
+</resources>
